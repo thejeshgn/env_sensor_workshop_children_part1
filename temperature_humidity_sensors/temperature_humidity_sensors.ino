@@ -1,7 +1,7 @@
 /* 
  * Code for reading temperature and humidity using AM2302 + UNO    
  * 
- * Thejesh GN, 2016, GNU GPL v 3.0
+ *  Thejesh GN <thejeshgn.com>, 2016, GNU GPL v 3.0
  * 
  * 
  * 

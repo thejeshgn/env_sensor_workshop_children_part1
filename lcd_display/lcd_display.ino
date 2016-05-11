@@ -1,6 +1,10 @@
 #include <LiquidCrystal.h>
 
-/* Connections:
+/* 
+ *  Display a message on LCD
+ *  Thejesh GN <thejeshgn.com>, 2016, GNU GPL v 3.0
+ *  
+ *  Connections:
  *  STEP 0. SETUP BREADBOARD
  *  Arduino 5v (pin 3)        -> plus column on breadboard
  *  Arduino GND (pin 4 or 5)  -> min column on breadboard

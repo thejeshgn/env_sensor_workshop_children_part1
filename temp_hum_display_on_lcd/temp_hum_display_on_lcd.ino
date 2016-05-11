@@ -1,6 +1,9 @@
 #include <LiquidCrystal.h>
 #include "DHT.h"
 /*
+ * Display temperature and humidity on LCD
+ * Thejesh GN <thejeshgn.com>, 2016, GNU GPL v 3.0
+ * 
  * This is just putting them together
  * Setup Sensor part
  * Setup LCD part
