@@ -84,25 +84,28 @@ Workshop is for six hours. With 10 minutes break for everhour and 45 minutes lun
 - Debug/View using serial
 
 ### Add LCD display
-- 60 Minutes
+- 30+45 Minutes
 - Build the circuit
 - Make code modifications
 - Debug
 
 ### Go live Arduino
+- 15 Minutes
 - Tell them how to package it inside a lunch box
 - How to power it up outside laptop
 
 
 ### How to Share code and sensor data
+- 15 Minutes
 - Where to find more circuits
 - Where to find code
 - Where to share the code and circuits
 
 ### Feedback
+- 15 Minutes
 - How did it go
 - What do they want to do in part-2 of workshop
-- 
+
 
 
 
