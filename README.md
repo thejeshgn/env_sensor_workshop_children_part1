@@ -35,32 +35,74 @@ This is an introduction to enviroment sensors to teenagers. This is aimed to pro
 Workshop is for six hours. With 10 minutes break for everhour and 45 minutes lunch break.
 
 ### Introduction
+- 45 Minutes
 - Introduction of every child
 - Introduction of every volunteer
 - Group formation and volunteer assignment
-- Kit distribution
+- Kit distribution and description
+- Introduction to the day
 
 ### Environmental Parameters and why and how measure
-Introduce to the enviornment and how various parameters can be measured, like temperature, pressure or ph of water. More like a question and an
+- 30 Minutes
+- Introduce to the enviornment and how various parameters can be measured, like temperature, pressure or ph of water. More like a question and answer sessions. Get more to know the children and make them comfortable with the volunteers and env.
+
+### Break - Tea - 15 Minutes
 
 ### Introduction to Basic Electronics
- Battery, LED, Resistors, Connection, Breadboard, Multimeter
+- 45 Minutes
+- Explain each basic parts
+- Battery, LED, Resistors 
+- Breadboard, Connection
+- Multimeter (simple connectivity checking)
+- Build a small Led, Battery circuit on the breadboard
+- Debugging on  the breadboard
 
 ### Introduction to Arduino Uno
-
-### Introduction to Sensors
-
-### Introduction to LCD display
+- 15 Minutes
+- Introduce Arduino in simple words
+- Show how to power it up
 
 ### Arduino IDE
+- 15 Minutes
+- Where to download
+- How to install ( we get it pre-installed)
+- Start it
+- How to select Arduino
 
 ### Build Hello World on Arduino
+- 15 Minutes
+- Bulid a blinker circuit
 
 ### Build Sensor Circuit
+- 30 Minues
+- Introduce AM2302
+- Build the circuit AM2302 + UNO
 
 ### Program Arduino for Sensor Circuit
+- 30 Minutes
+- Download and run the program
+- Debug/View using serial
+
+### Add LCD display
+- 60 Minutes
+- Build the circuit
+- Make code modifications
+- Debug
 
 ### Go live Arduino
+- Tell them how to package it inside a lunch box
+- How to power it up outside laptop
+
 
 ### How to Share code and sensor data
+- Where to find more circuits
+- Where to find code
+- Where to share the code and circuits
+
+### Feedback
+- How did it go
+- What do they want to do in part-2 of workshop
+- 
+
+
 
