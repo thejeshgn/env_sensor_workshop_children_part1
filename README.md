@@ -13,17 +13,17 @@ This is an introduction to enviroment sensors to teenagers. This is aimed to pro
 ** If you are below 18. Adult supervision is a must. Please be with your guardian or parent to recive the kit.**
 
 ## A bill of materials
-1. Arduino Uno R3 Compatible Development Board ATmega328P 
-2. USB cable for Arduino Uno R3
-3. AC to USB power (Same as the ones used by android phones)
-4. DHT22 / AM2302 Digital Temperature and Humidity Sensor
-5. LCD 6x2 LCD display display for arduino,8051,AVR,PIC,ARM 
-6. Breadboard
-7. Breadboard Wires (Male to Male)
-8. Regular 1.5 Battery
-9. Led
-10. 10 Potentiometer
-11. A few resistors
+1. Arduino Uno R3 Compatible Development Board ATmega328P - 1
+2. USB cable for Arduino Uno R3 - 1
+3. AC to USB power (Same as the ones used by android phones) - 1 
+4. DHT22 / AM2302 Digital Temperature and Humidity Sensor - 1
+5. LCD 6x2 LCD display display for arduino,8051,AVR,PIC,ARM  - 1
+6. Breadboard - 1
+7. Breadboard Wires (M2M, M2F) - 15 each 
+8. Regular 1.5 Battery - 1
+9. Led -1
+10. 10K Potentiometer
+11. A few resistors 10K, 1K, 230
 
 ## Common Items for the workshop
 1. Multimeter 
