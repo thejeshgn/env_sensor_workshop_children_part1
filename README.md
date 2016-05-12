@@ -72,11 +72,14 @@ Workshop is for six hours. With 10 minutes break for everhour and 45 minutes lun
 ### Build Hello World on Arduino
 - 15 Minutes
 - Bulid a blinker circuit
+![Build Hello World on Arduino](https://github.com/thejeshgn/env_sensor_workshop_children_part1/raw/master/hello_world_with_led/hello_world_with_led_uno_bb.png)
 
 ### Build Sensor Circuit
 - 30 Minues
 - Introduce AM2302
 - Build the circuit AM2302 + UNO
+
+![Sensor Circuit](https://github.com/thejeshgn/env_sensor_workshop_children_part1/raw/master/temperature_humidity_sensors/dht22-on-breakout-board.jpg)
 
 ### Program Arduino for Sensor Circuit
 - 30 Minutes
@@ -88,6 +91,10 @@ Workshop is for six hours. With 10 minutes break for everhour and 45 minutes lun
 - Build the circuit
 - Make code modifications
 - Debug
+
+![LCD Circuit](https://github.com/thejeshgn/env_sensor_workshop_children_part1/raw/master/lcd_display/lcd_display_bb.png)
+
+![All in one](https://github.com/thejeshgn/env_sensor_workshop_children_part1/raw/master/temp_hum_display_on_lcd/temp_hum_display_on_lcd_bb.png)
 
 ### Go live Arduino
 - 15 Minutes
